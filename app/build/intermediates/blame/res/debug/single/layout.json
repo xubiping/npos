@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_base_title.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout\\layout_base_title.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_base_title.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout\\layout_base_title.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout\\activity_base.xml"
+    }
+]

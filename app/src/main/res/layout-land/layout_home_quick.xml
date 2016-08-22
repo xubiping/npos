@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/linear_home_qucic"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal"
+        android:background="#ecedf2"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:background="#ffffff"
+            android:padding="3dp" >
+
+            <RelativeLayout
+                android:id="@+id/browsebutton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#577b96"
+                android:padding="3dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="浏览模式"
+                    android:textColor="#ffffff"
+                    android:textSize="10sp" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:background="#eeecef"
+            android:orientation="vertical" 
+            android:padding="2dp"
+            >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="#ecedf1"
+                android:orientation="horizontal" 
+                android:layout_margin="2dp">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1.5"
+                    android:background="#ecacaa"
+                    android:orientation="vertical" 
+                    android:layout_margin="2dp">
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center_horizontal"
+                        android:background="#ffffff"
+                        android:orientation="horizontal"
+                        android:padding="2dp" >
+
+                        <EditText
+                            android:id="@+id/et_home_quick"
+                            android:layout_width="100dp"
+                            android:layout_height="match_parent"
+                            android:layout_alignParentLeft="true"
+                            android:background="#fbfcfe"
+                            android:hint="1234567891234"
+                            android:layout_toLeftOf="@+id/iv_home_del" />
+
+                        <ImageView
+                            android:id="@+id/iv_home_del"
+                            android:layout_width="33dp"
+                            android:layout_height="33dp"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/add" />
+
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="0dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_weight="1"
+                        android:background="#eabcde"
+                        android:orientation="horizontal" >
+                        
+                        <com.online.goods.view.MyListView
+                            android:id="@+id/fg_home_quick"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" >
+                        </com.online.goods.view.MyListView>
+                        
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:orientation="horizontal" >
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="#ecefff"
+                android:orientation="vertical" >
+<include layout="@layout/layout_goods_keyboard2"></include>"
+                <!-- <android.inputmethodservice.KeyboardView
+                    android:id="@+id/keyboard_view"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/lightblack"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:keyBackground="@drawable/btn_keyboard_key"
+                    android:keyTextColor="@color/white"
+                    android:visibility="gone" /> -->
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

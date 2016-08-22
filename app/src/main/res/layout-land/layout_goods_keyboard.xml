@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d6d7e7"
+    android:orientation="vertical" >
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:columnCount="4"
+        android:rowCount="4" >
+        
+
+        <Button
+            android:id="@+id/one"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="1" />
+
+        <Button
+            android:id="@+id/two"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="2" />
+    
+　
+
+        <Button
+            android:id="@+id/three"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="3" />
+
+        <Button
+            android:id="@+id/devide"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="X" />
+
+        <Button
+            android:id="@+id/four"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="4" />
+
+        
+        <Button
+            android:id="@+id/five"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="5" />
+
+        <Button
+            android:id="@+id/six"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="6" />
+
+        <Button
+            android:id="@+id/multiply"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="清空" />
+
+        <Button
+            android:id="@+id/seven"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="7" />
+
+        <Button
+            android:id="@+id/eight"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="8" />
+
+        <Button
+            android:id="@+id/nine"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="9" />
+
+        <Button
+            android:id="@+id/plus"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:layout_gravity="fill"
+            android:layout_rowSpan="2"
+            android:background="#ffffff"
+            android:text="确定" />
+
+        <Button
+            android:id="@+id/zero"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="0" />
+
+        <Button
+            android:id="@+id/zeroDouble"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="00" />
+
+        <Button
+            android:id="@+id/point"
+            android:layout_width="108dp"
+            android:layout_height="48dp"
+            android:background="#ffffff"
+            android:text="." />
+    </GridLayout>
+
+</LinearLayout>

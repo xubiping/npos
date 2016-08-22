@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\xml\\qwerty.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\xml\\qwerty.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\symbols.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\xml\\symbols.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\xml\\symbols.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\xml\\symbols.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\qwerty.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\xml\\qwerty.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shape_triangle_d.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\drawable-mdpi\\shape_triangle_d.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\corners_radius0_bg.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\drawable-mdpi\\corners_radius0_bg.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shape_triangle.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\drawable-mdpi\\shape_triangle.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shape_triangle.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\drawable-mdpi\\shape_triangle.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shape_triangle_d.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\drawable-mdpi\\shape_triangle_d.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\corners_radius0_bg.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\drawable-mdpi\\corners_radius0_bg.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\corners_radius_bg.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\drawable-mdpi\\corners_radius_bg.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\corners_radius_bg.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\drawable-mdpi\\corners_radius_bg.xml"
+    }
+]

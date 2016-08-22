@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_home_quick.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\layout_home_quick.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_base.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\activity_base.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\item_home_buy.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\item_home_buy.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_home_browse.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\layout_home_browse.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\item_home_buy.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\item_home_buy.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fg_home_quick.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\fg_home_quick.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_home_browse_submenu.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\layout_home_browse_submenu.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_base.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\activity_base.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_home_quick.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\layout_home_quick.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_goods_keyboard.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\layout_goods_keyboard.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_home.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fg_home_quick.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\fg_home_quick.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_goods_arr.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\layout_goods_arr.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_goods_keyboard2.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\layout_goods_keyboard2.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_home.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_goods_keyboard.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\layout_goods_keyboard.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_goods_show.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\layout_goods_show.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_home_browse.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\layout_home_browse.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_goods_arr.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\layout_goods_arr.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_goods_show.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\layout_goods_show.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_goods_cost.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\layout_goods_cost.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_home_browse_submenu.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\layout_home_browse_submenu.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\NPOS\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fg_home.xml",
+        "source": "D:\\OneDrive\\NPOS\\app\\src\\main\\res\\layout-land\\fg_home.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fg_home.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\fg_home.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_goods_cost.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\layout_goods_cost.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Pos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_goods_keyboard2.xml",
+        "source": "D:\\OneDrive\\Pos\\app\\src\\main\\res\\layout-land\\layout_goods_keyboard2.xml"
+    }
+]

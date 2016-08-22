@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#DC6767"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/login_div"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="10dip"
+        android:background="@drawable/corners_radius0_bg"
+        android:orientation="vertical"
+        android:padding="0dip" >
+
+        <include
+            android:id="@+id/layout_base_title"
+            layout="@layout/layout_base_title" >
+        </include>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center_horizontal"
+            android:background="#ffffff"
+            android:orientation="vertical"
+            android:padding="0dip" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#fafafa"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="用户"
+                        android:textColor="#dc6767"
+                        android:textSize="20sp" />
+
+                    <EditText
+                        android:id="@+id/sy_login_edit_username"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:background="#fafafa"
+                        android:ems="10"
+                        android:inputType="textPersonName"
+                        android:singleLine="true"
+                        android:textColor="#000000"
+                        android:textColorHint="#C2C2C2"
+                        android:textCursorDrawable="@null"
+                        android:textSize="15sp" >
+                    </EditText>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="#dc6767" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#fafafa"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="密码"
+                        android:textColor="#dc6767"
+                        android:textSize="20sp" />
+
+                    <EditText
+                        android:id="@+id/sy_login_edit_username"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:background="#fafafa"
+                        android:ems="10"
+                        android:inputType="textPersonName"
+                        android:password="true"
+                        android:singleLine="true"
+                        android:textColor="#000000"
+                        android:textColorHint="#C2C2C2"
+                        android:textCursorDrawable="@null"
+                        android:textSize="15sp" >
+                    </EditText>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="#797979" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@drawable/corners_radius0_bg"
+                android:orientation="vertical"
+                android:padding="0dip" >
+                
+                
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
