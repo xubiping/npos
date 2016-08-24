@@ -27,6 +27,7 @@ public class LoginActivity extends BaseActivity{
         setContentView(R.layout.activity_base);
         ViewUtils.inject(this);
         ToastUtils.init(this);
+        //ssss
     }
 
     public Handler handler = new Handler(){
